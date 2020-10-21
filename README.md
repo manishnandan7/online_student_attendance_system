@@ -1,1 +1,2 @@
 # online_student_attendance_system
+This project can be used to take the attendance in the university/college/schools having their local intranet.It is based on two methods of taking attendance one by roll call and other by unique code generation. In unique key generation, teacher will generate the unique key and the same unique key will be used  to submit the attendance in the class by connecting to same intranet service available in the class by the teacher and by the student to avoid proxy system in the institution specially in college.
